@@ -1,0 +1,17 @@
+.task_table_div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.task_table
+{
+    table-layout: fixed;
+    width: 500px;
+}
+
+td
+{
+    text-align: center;
+}
